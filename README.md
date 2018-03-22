@@ -1,7 +1,8 @@
 # FlightOne Open Source
 Open Source Software for Flight Controllers  
 Compatible configurator can be found at https://flightone.us/configurator/0.324.0/  
-Open Source  
+
+# Open Source  
 
 When we first started RaceFlight One, we had great ideals.  We wanted to make the best flying firmware available, while at
 the same time making it the easiest to setup and configure.  I feel we are doing a great job hitting these goals.    
@@ -13,7 +14,7 @@ I have decided to release the code base, from the point in time, that was withou
 Hopefully this will foster more innovation, and greater growth for our industry.   We are also willing to support this going forward, and incorporate any technology back into our main code base, while at the same time keep any contributions completely open source.    This hopefully will be the first step towards working more openly with other projects, and the open source community as a whole.    
 
 
-New Name, Same Great Software and Hardware
+# New Name, Same Great Software and Hardware
 
 When we first started on RaceFlight One, we initially discussed the fact that our name would confuse people who don’t just race.  We have a long history of being used by many of the top racers, and are currently dominating in the racing market.  In the past few months we have rapidly been growing our racing user base, as well as adding many amazing racers to our team.  Adding racewrs like Min Chan and Alex Vanover, along side of our existing racers like Shaun Taylor, Gil Coronado, and many other racers  has allowed us to constantly not only podium, but win most of the big racers our pilots have entered. There are even a few other well known racers now running RaceFlight One hardware and software as well.   We love the race community and we will always be pushing innovation in that space.  
 
